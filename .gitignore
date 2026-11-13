@@ -23,3 +23,6 @@ vite.generated.ts
 /src/main/resources/glpk-4.65/
 /src/main/resources/graphs/
 /src/main/resources/results/
+/src/main/java/Main.java
+/src/main/java/ExperimentRunner.java
+/src/main/java/CsvLogger.java
