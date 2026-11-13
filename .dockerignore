@@ -1,0 +1,12 @@
+target/
+.git/
+.idea/
+.vscode/
+node_modules/
+*.zip
+*.log
+.env
+.env.*
+/src/main/resources/glpk-4.65/
+/src/main/resources/graphs/
+/src/main/resources/results/

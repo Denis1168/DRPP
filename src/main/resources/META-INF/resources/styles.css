@@ -1,0 +1,23 @@
+.graph-svg-wrapper {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}
+
+.graph-svg-wrapper svg {
+    max-width: none;
+    height: auto;
+}
+
+.graph-svg-wrapper svg {
+    width: 100%;
+    height: 100%;
+}
+
+vaadin-grid::part(used-edge-row) {
+    font-weight: 700;
+}
+
+vaadin-grid::part(unused-edge-row) {
+    color: #6b7280;
+}
